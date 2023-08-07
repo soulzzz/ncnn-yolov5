@@ -1,0 +1,26 @@
+{
+  "buildFiles": [
+    "D:\\As_saves\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "D:\\As_saves\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslang\\glslang-targets.cmake",
+    "D:\\As_saves\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "D:\\As_saves\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "D:\\As_saves\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\As_sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+    "D:\\As_saves\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\As_saves\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "D:\\As_saves\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "D:\\As_sdk\\ndk\\21.4.7075529\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\As_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\As_saves\\ncnn-android-yolov5-master\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\As_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\As_saves\\ncnn-android-yolov5-master\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Debug-arm64-v8a": {
+      "artifactName": "yolov5ncnn",
+      "buildCommand": "D:\\As_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\As_saves\\ncnn-android-yolov5-master\\app\\.cxx\\cmake\\debug\\arm64-v8a\" yolov5ncnn",
+      "abi": "arm64-v8a",
+      "output": "D:\\As_saves\\ncnn-android-yolov5-master\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libyolov5ncnn.so"
+    }
+  }
+}
